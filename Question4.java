@@ -38,8 +38,7 @@ class Marks {
     int[][] marks = new int[4][5];
 
     public void averageSubject(int[][] marks) {
-        double sum = 0;
-        double avg = 0;
+        double sum = 0, avg = 0;
         for(int i=0; i<5; i++) {
             sum = 0;
             avg = 0;
@@ -52,8 +51,7 @@ class Marks {
     }
 
     public void averageStudent(int[][] marks) {
-        double sum = 0;
-        double avg = 0;
+        double sum = 0, avg = 0;
         for(int i=0; i<4; i++) {
             avg = 0;
             sum = 0;
@@ -70,8 +68,7 @@ class Marks {
     }
 
     public void lessaverage(int[][] marks) {
-        double sum = 0;
-        double avg = 0;
+        double sum = 0, avg = 0;
         for(int i=0; i<4; i++) {
             avg = 0;
             sum = 0;
