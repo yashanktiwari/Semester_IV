@@ -26,7 +26,6 @@ Total Sales By Salesman 5 = 141
 Total sales of item 1 = 158 
 Total sales of item 2 = 198 
 Total sales of item 3 = 250
-
 */
 
 import java.util.Scanner;
