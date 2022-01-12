@@ -10,7 +10,6 @@ class Student
 	private String name;
 }
 // create constructor or getter and setter methods as per need
-
 */
 
 class Student {
