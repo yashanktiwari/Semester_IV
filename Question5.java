@@ -5,7 +5,6 @@ Input values
 10 10 30 30 40 50 50 50 9 45
 Output 
 10 30 40 50 9 45
-
 */
 import java.util.Scanner;
 
