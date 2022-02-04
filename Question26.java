@@ -27,7 +27,6 @@ Sample Input 2 :
 Sample Output 2 :
 8
 0
-
 */
 import java.util.Scanner;
 
@@ -59,7 +58,6 @@ class Node26 {
 }
 
 class LL26 {
-
     Node26 head;
     static int size;
 
