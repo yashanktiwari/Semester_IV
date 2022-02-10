@@ -13,6 +13,7 @@ public class Question38 {
         LL38 list = new LL38();
         for(int i=0; i<s.length(); i++) list.add(s.charAt(i));
         list.printList();
+        scan.close();
     }
 }
 
