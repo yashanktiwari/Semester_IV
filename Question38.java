@@ -1,6 +1,6 @@
 /*
 Question:
-Q38. Enter a string from user and store each character of a string in different nodes of a linked list and print the values 
+Q38.Enter a string from user and store each character of a string in different nodes of a linked list and print the values 
 Input :  neeraj
 Output :  n -> e -> e -> r -> a -> j
 */
