@@ -22,6 +22,7 @@ public class Question37 {
         for(int i=0; i<obj.rearrange(arr).length; i++) {
             System.out.print(obj.rearrange(arr)[i] + " ");
         }
+        scan.close();
     }
 }
 
